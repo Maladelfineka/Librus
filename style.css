@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgba(247, 248, 250, 1);
+    background-color: #E5E5E5;
     font-family: Roboto;
     color: rgba(115, 124, 142, 1);
     display: flex;
@@ -63,4 +63,78 @@ body {
     margin-top: 55px;
     border: 0px;
     color:  rgba(115, 124, 142, 1);
+}
+
+
+.wyniki {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+    font-size: 17px;
+    font-weight: bold;
+    background-color: #FFFF;
+    width: 494px;
+    height: 670px;
+}
+
+.wyniki_wyrownanie {
+    display: flex;
+    gap: 30px;
+    border-bottom: solid #DFE2E8 1px;
+    width: 426px;
+    margin-left: 40px;
+
+}
+
+.wyniki_kulko1 {
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    font-size: 13px;
+    background-color: #CB8581;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFF;
+}
+
+
+.wyniki_kulko2 {
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    font-size: 13px;
+    background-color: #E1D888;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFF;
+}
+
+.wyniki_kulko3 {
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    font-size: 13px;
+    background-color: #8FCB81;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFF;
+}
+
+.wyniki_przycisk {
+    border-radius: 50%;
+    width: 22px;
+    height: 22px;
+    background-color: #C0C7D6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0;
+}
+
+.wyniki_ilosc {
+    font-size: 10px;
 }
