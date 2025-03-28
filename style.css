@@ -84,6 +84,8 @@ body {
     border-bottom: solid #DFE2E8 1px;
     width: 426px;
     margin-left: 40px;
+    display: flex;
+    align-items: center;
 
 }
 
@@ -137,4 +139,5 @@ body {
 
 .wyniki_ilosc {
     font-size: 10px;
+    margin-top: -10px;
 }
