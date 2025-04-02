@@ -156,5 +156,92 @@ body {
     flex-direction: column;
     width: 456px;
     height: 233px;
+    margin-bottom: 33px;
+    border-radius: 10px;
 }
 
+.endpoint_h2 {
+    font-weight: 700;
+    font-size: 32p;
+    margin-top: -10px;
+}
+
+.endpoint_divh {
+  margin-left: 26px;
+}
+
+
+.endpoint_p1 {
+    margin-top: -17px;
+    font-size: 10px;
+    
+}
+
+.endpoint_p1_2{
+    color: #737C8E;
+    margin-top: 18px;
+    font-size: 10px;
+    font-size: xx-small;
+    line-height: 15px;
+}
+
+.endpoint_przycisk_1{
+    border-radius: 96px;
+    width: 111px;
+    font-size: 10px;
+    border: 0px;
+    color:  rgba(115, 124, 142, 1);
+    height: 23px;
+    font-weight: 600;
+    margin-left: 26px;
+}
+
+.endpoint_2{
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+   
+    flex-direction: column;
+    width: 456px;
+    height: 233px;
+    margin-bottom: 33px;
+    border-radius: 10px;
+}
+
+.endpoint_h2_1 {
+    font-weight: 700;
+    font-size: 32p;
+}
+
+.endpoint_divh2 {
+  margin-left: 26px;
+}
+
+.endpoint_h2_1{
+    margin-top: -10px;
+}
+
+.endpoint_p1 {
+    margin-top: -17px;
+    font-size: 10px;
+    
+}
+
+.endpoint_p1_2{
+    color: #737C8E;
+    margin-top: 18px;
+    font-size: 10px;
+    font-size: xx-small;
+    line-height: 15px;
+}
+
+.endpoint_przycisk_1{
+    border-radius: 96px;
+    width: 111px;
+    font-size: 10px;
+    border: 0px;
+    color:  rgba(115, 124, 142, 1);
+    height: 23px;
+    font-weight: 600;
+    margin-left: 26px;
+}
