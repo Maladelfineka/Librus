@@ -282,6 +282,7 @@ body {
 
 .settings_h1 {
     width: 674px;
+    margin-bottom: 60px;
 }
 
 .settings_div {
@@ -289,26 +290,71 @@ body {
     height: 516px;
     background-color: #FFFFFF;
     border-radius: 10px;
+    
 }
 
 .settings_apps {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+
 
 }
 .settings_apps1{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 10000px;
-    height: 300px;
+    font-weight: 600;
+    font-size: 14px;
+    gap: 75px;
+    width: 600px;
+    height: 135px;
+    margin-top: 20px;
+    border-bottom: solid #DFE2E8 1px;
+
     
+}
+
+
+.settings_apps1_1{
+    display: flex;
+    flex-direction: column;
+}
+
+.settings_apps1_p2 {
+    border-radius: 25px;
+    height: 35px;
+    width: 245px;
+    border: 1px solid #C0C7D6;
+    margin-top: 10px;
 }
 
 .settings_apps2{
     display: flex;
     justify-content: center;
-    align-items: center;
+    font-weight: 550;
+    font-size: 14px;
     
+
+}
+
+.settings_apps2_2{
+    display: flex;
+    flex-direction: column;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.settings_add {
+    width: 69px;
+    height: 24px;
+    border-radius: 96px;
+    border: 0px;
+    margin-top: 20px;
+    font-size: 10px;
+    font-weight: 600;
+    color:  rgba(115, 124, 142, 1);
+   
+
 }
