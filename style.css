@@ -358,3 +358,89 @@ body {
    
 
 }
+
+.settings_button{
+    border-radius: 50%;
+    width: 22px;
+    height: 22px;
+    background-color: #C0C7D6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0;
+}
+
+.settings_apps3{
+    display: flex;
+    flex-direction: column;
+    margin-top: 18px;
+
+}
+
+.settings_button3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    width: 200px;
+    height: 40px;
+    
+}
+
+.shedule {
+    width: 479px;
+    height: 556px;
+    background-color: #FFFFFF;
+    display: flex;
+    border-radius: 20px;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 600;
+    font-size: 14px;
+
+
+}
+
+.shedule_div1 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.shedule_h1 {
+    margin-top: 50px;
+
+}
+
+.shedule_input1{
+    border-radius: 25px;
+    height: 35px;
+    width: 245px;
+    border: 1px solid #C0C7D6;
+    margin-top: 10px;
+
+    margin-bottom: 10px;
+}
+
+.shedule_input2{
+    border-radius: 25px;
+    height: 130px;
+    width: 363px;
+    border: 1px solid #C0C7D6;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.shedule_button{
+    width: 117px;
+    height: 31px;
+    border-radius: 96px;
+    border: 0px;
+    margin-top: 50px;
+    font-size: 10px;
+    font-weight: 600;
+    color: #737C8E;
+}
+
+.shedule_lab1{
+    gap: 40px;
+}
